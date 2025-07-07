@@ -1,7 +1,7 @@
 ## Hey guys! im new Backend developer maybe👋
 <div align="center">
 
-### 👋 안녕하세요! 개발자 OOO입니다.
+### 👋 안녕하세요! 개발자 kiri 입니다.
 
 <br>
 
