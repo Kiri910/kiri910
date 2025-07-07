@@ -1,15 +1,15 @@
-## Hey guys! im new Backend developer maybe👋
+
 <div align="center">
 
-### 👋 안녕하세요! 개발자 kiri 입니다.
+### 👋 안녕하세요! 개발자 김귀이 입니다.
 
 <br>
 
-<p>이곳에 자신을 어필할 수 있는 한두 줄의 멋진 소개글을 작성해보세요! <br> 문제 해결 과정을 즐기며, 동료와 함께 성장하는 것을 중요하게 생각합니다.</p>
+<p>Backend 개발자가 되는 것이 목표이며 최종 목표는 일본 취업 입니다. <br> 문제 해결 과정을 즐기며, 동료와 함께 성장하는 것을 즐깁니다.</p>
 
 <br>
 
-<a href="https://velog.io/@kiirii910/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@kiirii910/posts" target= "_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/kiru_udi9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:kiirii910@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
