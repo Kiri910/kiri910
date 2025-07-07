@@ -33,6 +33,10 @@ Backendの開発者を目標にしており、日本での就職を希望して�
 
 ### 📊 깃허브 활동 통계 (GitHub活動統計)
 
+<a href="https://velog.io/@kiirii910/posts">
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=kiirii910" alt="Velog's GitHub stats"/>
+</a>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=내 깃허브 아이디&show_icons=true&theme=radical" alt="github stats"/>
   <br>
