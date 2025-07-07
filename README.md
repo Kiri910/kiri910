@@ -17,6 +17,10 @@ Backendの開発者を目標にしており、日本での就職を希望して�
 <a href="https://www.instagram.com/kiru_udi9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:kiirii910@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<a href="https://velog.io/@kiirii910/posts">
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=kiirii910" alt="Velog's GitHub stats"/>
+</a>
+
 <br>
 <br>
 
@@ -32,10 +36,6 @@ Backendの開発者を目標にしており、日本での就職を希望して�
 <br>
 
 ### 📊 깃허브 활동 통계 (GitHub活動統計)
-
-<a href="https://velog.io/@kiirii910/posts">
-  <img src="https://velog-readme-stats.vercel.app/api/list?name=kiirii910" alt="Velog's GitHub stats"/>
-</a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=내 깃허브 아이디&show_icons=true&theme=radical" alt="github stats"/>
