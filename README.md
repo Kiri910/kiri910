@@ -35,12 +35,5 @@ Frontendの開発者を目標にしており、日本での就職を希望して
 
 <br>
 
-### 📊 깃허브 활동 통계 (GitHub活動統計)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=내 깃허브 아이디&show_icons=true&theme=radical" alt="github stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=내 깃허브 아이디&layout=compact&theme=radical" alt="top languages"/>
-</p>
 
 </div>
