@@ -11,7 +11,8 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1000&color=168DFF¢er=true&vCenter=true&width=500&lines=프론트엔드+개발자를+목표하고+있습니다;심미적+만족감을+주는+UI/UX를+고민합니다;동료와+함께+성장하는+것을+중시합니다" alt="Typing SVG" />
+<p>
+프론트엔드 개발자를 목표하고 있습니다. <br> 클라이언트에게 심미적 만족감을 주는 것과 동료와의 성장을 중시합니다.
 <br><br>
 フロントエンドの開発者を目指しています。<br>クライアントに審美的満足感を与えることと、仲間との成長を重視します。
 </p>
