@@ -89,9 +89,9 @@
 ### 📊 깃허브 활동 통계 (GitHub Stats)
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=내 깃허브 아이디&show_icons=true&theme=radical" alt="github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kiri910&show_icons=true&theme=radical" alt="github stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=내 깃허브 아이디&layout=compact&theme=radical" alt="top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri910&layout=compact&theme=radical" alt="top languages"/>
   </p>
   <br>
   <!-- 깃허브 활동 그래프 (Contribution Snake) -->
@@ -105,5 +105,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=footer"/>
 </div>
-Use code with caution.
-Markdown
